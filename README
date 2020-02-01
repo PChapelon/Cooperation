@@ -1,23 +1,8 @@
-Coopération existante : 
-    - style indirect
-    - style direct
+Premier projet sous Unity
 
-Style indirect : La coopération n'est pas réalisée en temps réel
+Niveau d'énigmes faciles réalisable à 1 ou 2 joueurs.
 
-Il est aussi possible de retrouver la coopération en local ou par le biais d'un réseau 
-
-
-Style indirect
-
-- Dark souls : les joueurs peuvent laisser des indications au sol qui peuvent être lues par les autres joueurs en ligne
-- 
-
-
-Style direct
-
-- lego Super heroes : utilisation du splitscreen dynamic, l'écran peut se scinder et se rassembler, de plus la séparation bouge en fonction de la position des joueurs
-- A way out : les deux personnages sont séparés, utilisation du splitscreen
-
+Projet à intégrer dans Unity 2019.2.13f1
 
 
 
