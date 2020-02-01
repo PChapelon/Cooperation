@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Experimentation_Coop.unity
+    guid: 36bfa638588fe493bbf4fa576ec56b35
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9b8c0e68a82954b9980f8cabfb997bb9,
+      type: 2}
